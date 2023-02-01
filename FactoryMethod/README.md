@@ -5,7 +5,7 @@ The _Products_ will implement a common Interface.The classes which call the Fact
 The Creator can be an abstract base class having a method for creating _Product_.But the concrete subclasses implementing 
 then will have the logic of actual Product creation.
 
-![](/Users/badri/Downloads/java-design-patterns/FactoryMethod/FactoryMethod.png)
+![](FactoryMethod.png)
 
 
 Exercise to show case Factory Method pattern. 
