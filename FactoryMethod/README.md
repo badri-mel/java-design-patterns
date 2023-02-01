@@ -8,11 +8,12 @@ then will have the logic of actual Product creation.
 ![](FactoryMethod.png)
 
 
-Exercise to show case Factory Method pattern. 
+Exercise to showcase Factory Method pattern. 
 
 Car Factory: 
 
 Implement a car factory that creates different types of cars based on user input.
-Create classes for Car, SportCar, FamilyCar, and CarFactory. The Car class should have a method drive() that returns 
+Create classes for Car, SportCar, FamilyCar, and CarFactory.
+The Car class should have a method drive() that returns 
 a string, and the factory should use the input to determine which type of car to create and return it as an object of 
 type Car.
